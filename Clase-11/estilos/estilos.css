@@ -1,0 +1,82 @@
+body {
+	width: 100%;
+	font-size: 14px;
+	font-family: "Robot Slab" "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+header {
+	width: 100%;
+	height: 70px;
+	position: fixed;
+	z-index: 2;
+}
+
+div.foto_principal {
+	width: 100%;
+	height: 755px;
+	background-color: black;
+	opacity: 0.1;
+}
+
+.imagen_header {
+	background: url(../imagenes/header-bg.jpg);
+}
+
+.primero {
+	width: 100%;
+	height: 700px;
+	background-color: #ffffff;
+}
+
+span .fa-circle {
+	color: #fed136;
+}
+
+.servicios {
+	margin-top: 158px;
+}
+
+.columna1, .columna2, .columna3 {
+	margin-top: 80px;
+}
+
+.segundo {
+	width: 100%;
+	height: 1230px;
+	background-color: #eeeeee;
+}
+
+.portfolio {
+	margin-top: 155px;
+}
+
+.tercero {
+	width: 100%;
+	height: 1828px;
+	background-color: #ffffff;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: 505px;
+}
+
+.textos {
+	display: block;
+	margin-left: 200px;
+	margin-right: 100px;
+}
+
+.imagen2 {
+	display: block;
+	margin-top: 129px;
+	margin-right: 160px;
+
+
+
+
+
+
+
+
