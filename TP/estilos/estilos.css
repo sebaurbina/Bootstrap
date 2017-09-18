@@ -1,0 +1,72 @@
+body { padding-top: 70px; }
+
+.fotossection1 {
+	width: 350px;
+	height: 230px;
+}
+
+.caja_section1 {
+	padding-top: 5rem;
+}
+
+.caja_section2 {
+	padding: 1rem;
+	margin: 1rem;
+	background-color: #fff;
+	border: 10px solid black;
+	
+}
+
+.titulares {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+a {
+	margin: 2rem;
+	text-decoration: none;
+	font-size: 2rem;
+}
+
+.sectionc div div {
+	display: none;
+	width: 88.5%;
+	background-color: #e0325e;
+	position:absolute;
+	top: 0%;
+	left: 3.5%;
+	z-index: 100%;
+	line-height: 123%;
+	opacity: 0.85;
+}
+
+.sectionc div:hover div{
+	display: block;
+}
+
+.sectionc div div p {
+	padding: 5%;
+	font-size: 1.5rem;
+}
+
+.titulares a i {
+	margin-left: 0.6rem;
+}
+
+.verde {
+	width: 100%;
+	height: 300px;
+	background-color: #67b656;
+}
+
+.cuadro1 {
+	width: 30%;
+	height: 250px;
+	background-color: white;
+	margin: 2rem;
+}
+
+
+
+
